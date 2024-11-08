@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/nababurbd" target="blank"><img src="https://img.shields.io/twitter/follow/nababurbd?logo=twitter&style=for-the-badge" alt="nababurbd" /></a> </p>
 
-- 🔭 I’m currently working as a =Software Engineer.
+- 🔭 I’m currently working as a oftware Engineer.
 
 - 🌱 I’m currently learning **PHP, Vue Js, Laravel and Flutter**
 
