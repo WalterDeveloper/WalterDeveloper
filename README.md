@@ -1,8 +1,8 @@
 <a href="https://www.youtube.com/@CodewithNababur">![code with nababur](https://github.com/user-attachments/assets/c22ca0a9-9c8e-4d9e-9f95-87cb234dea74)</a>
 
 
-<h1 align="center">Hi 👋, I'm Nababur Rahaman</h1>
-<h3 align="center">A passionate frontend and backend developer(PHP, Wp, Laravel) from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Walter Mogajana</h1>
+<h3 align="center">A passionate frontend and backend developer(PHP, Wp, Laravel) from South Africa</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/nababurbd" target="blank"><img src="https://img.shields.io/twitter/follow/nababurbd?logo=twitter&style=for-the-badge" alt="nababurbd" /></a> </p>
 
-- 🔭 I’m currently working as a WordPress & Laravel Dev.
+- 🔭 I’m currently working as a =Software Engineer.
 
-- 🌱 I’m currently learning **React, Vue Js, Next Js**
+- 🌱 I’m currently learning **PHP, Vue Js, Laravel and Flutter**
 
-- 📝 I regularly write articles on [https://nababur.com/](https://nababur.com/)
+- 📝 I regularly develop website on [https://altersoftware.web.app/](https://altersoftware.web.app/)
 
 - 💬 Ask me about **PHP, MysQL, Wordpress, Laravel**
 
-- 📫 How to reach me **nababurdev@gmail.com**
+- 📫 How to reach me **softaredev1994@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
