@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/channel/UCKPVMW3VPHvVoucWAVAKsAQ">![code with nababur](https://github.com/user-attachments/assets/)</a>
+<a href="https://www.youtube.com/@waltermogajana94">![code with nababur](https://github.com/user-attachments/assets/)</a>
 
 
 <h1 align="center">Hi 👋, I'm Walter Mogajana</h1>
