@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend and backend developer(PHP, Wp, Laravel) from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nababur&label=Profile%20views&color=0e75b6&style=flat" alt="nababur" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nababur&label=Profile%20views&color=0e75b6&style=flat" alt="nababur" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nababurbd" target="blank"><img src="https://img.shields.io/twitter/follow/nababurbd?logo=twitter&style=for-the-badge" alt="nababurbd" /></a> </p>
 
