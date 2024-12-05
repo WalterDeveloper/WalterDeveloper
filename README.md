@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Walter Mogajana</h1>
-<h3 align="center">A passionate frontend and backend developer(PHP, Wp, Laravel) from South Africa</h3>
+<h3 align="center">A passionate frontend and backend developer(PHP, WordpPress, Laravel) from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nababur&label=Profile%20views&color=0e75b6&style=flat" alt="nababur" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working as a software Engineer.
 
-- 🌱 I’m currently learning **PHP, Vue Js, Laravel and Flutter**
+- 🌱 I’m currently learning **PHP, WordPress, Laravel and Flutter**
 
 - 📝 I regularly develop website on [https://altersoftware.web.app/](https://altersoftware.web.app/)
 
