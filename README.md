@@ -36,6 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nababur&show_icons=true&locale=en&layout=compact" alt="nababur" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nababur&show_icons=true&locale=en" alt="WalterDeveloper" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WalterDeveloper&show_icons=true&locale=en" alt="WalterDeveloper" /></p>
 
 
