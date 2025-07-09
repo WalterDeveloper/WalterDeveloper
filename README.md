@@ -133,7 +133,7 @@ const Dimuth = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimuthadithya&theme=tokyonight" alt="Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walterdeveloper&theme=tokyonight" alt="Profile Details" width="100%" />
 </div>
 
 <div align="center">
