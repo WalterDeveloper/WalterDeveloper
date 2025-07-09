@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hello World, I'm Dimuth!</div>
+# <div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hello World, I'm Walter Mogajana!</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -24,8 +24,8 @@
 
 ```typescript
 const Dimuth = {
-  location: 'Kegalle, Sri Lanka 🌏',
-  currentFocus: 'Higher National Diploma @ SLIATE',
+  location: 'Pretoria, South Africa 🌏',
+  currentFocus: 'Higher National Diploma @ Tshwane University Of Pretoria',
   passions: ['Web Development', 'Modern Technologies', 'Clean Code'],
   dailyDose: ['Code', 'Coffee', 'Innovation'] as const,
   favoriteQuote: 'Every line of code is a story waiting to be told',
@@ -144,9 +144,9 @@ const Dimuth = {
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/dimuth-adithya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:dimuthadithya01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://dimuthadithya.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/walter-mogajana-6b4725195/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:softwaredev1994@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://altersoftware.web.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 <div align="center">
