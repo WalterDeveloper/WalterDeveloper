@@ -25,7 +25,7 @@
 ```typescript
 const Walter = {
   location: 'Pretoria, South Africa 🌏',
-  currentFocus: 'National Diploma @ Tshwane University Of Pretoria',
+  currentFocus: 'Post Graduate Diploma @ Tshwane University Of Pretoria',
   passions: ['Web Development', 'Modern Technologies', 'Clean Code'],
   dailyDose: ['Code', 'Coffee', 'Innovation'] as const,
   favoriteQuote: 'Every line of code is a story waiting to be told',
